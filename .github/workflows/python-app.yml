@@ -28,7 +28,7 @@ jobs:
         registry: docker.io
         username: helpyouifican
         password: dckr_pat_ixLbkzNDgQgUtqsPx0HL0rSljfM
-    - name: 'Deploy to Azure Web App1'
+    - name: 'Deploy to Azure Web App3'
       uses: azure/webapps-deploy@v2     
       with: 
          app-name: 'cdgithubaction13' 
